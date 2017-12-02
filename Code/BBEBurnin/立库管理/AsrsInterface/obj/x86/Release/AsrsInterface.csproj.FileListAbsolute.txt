@@ -1,0 +1,7 @@
+E:\Workspace\zz\项目8\代码\BBEBurnin\立库管理\AsrsInterface\bin\Release\AsrsInterface.dll
+E:\Workspace\zz\项目8\代码\BBEBurnin\立库管理\AsrsInterface\bin\Release\AsrsInterface.pdb
+E:\Workspace\zz\项目8\代码\BBEBurnin\立库管理\AsrsInterface\bin\Release\AsrsModel.dll
+E:\Workspace\zz\项目8\代码\BBEBurnin\立库管理\AsrsInterface\bin\Release\AsrsModel.pdb
+E:\Workspace\zz\项目8\代码\BBEBurnin\立库管理\AsrsInterface\obj\x86\Release\AsrsInterface.csprojResolveAssemblyReference.cache
+E:\Workspace\zz\项目8\代码\BBEBurnin\立库管理\AsrsInterface\obj\x86\Release\AsrsInterface.dll
+E:\Workspace\zz\项目8\代码\BBEBurnin\立库管理\AsrsInterface\obj\x86\Release\AsrsInterface.pdb

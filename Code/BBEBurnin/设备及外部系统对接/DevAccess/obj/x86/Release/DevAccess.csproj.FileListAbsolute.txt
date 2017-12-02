@@ -1,0 +1,12 @@
+E:\Workspace\zz\项目8\代码\BBEBurnin\设备及外部系统对接\DevAccess\obj\x86\Release\DevAccess.csprojResolveAssemblyReference.cache
+E:\Workspace\zz\项目8\代码\BBEBurnin\设备及外部系统对接\DevAccess\obj\x86\Release\Interop.ActProgTypeLib.dll
+E:\Workspace\zz\项目8\代码\BBEBurnin\设备及外部系统对接\DevAccess\obj\x86\Release\DevAccess.csproj.ResolveComReference.cache
+E:\Workspace\zz\项目8\代码\BBEBurnin\设备及外部系统对接\DevAccess\bin\Release\DevAccess.dll
+E:\Workspace\zz\项目8\代码\BBEBurnin\设备及外部系统对接\DevAccess\bin\Release\DevAccess.pdb
+E:\Workspace\zz\项目8\代码\BBEBurnin\设备及外部系统对接\DevAccess\bin\Release\DevInterface.dll
+E:\Workspace\zz\项目8\代码\BBEBurnin\设备及外部系统对接\DevAccess\bin\Release\DevInterface.pdb
+E:\Workspace\zz\项目8\代码\BBEBurnin\设备及外部系统对接\DevAccess\obj\x86\Release\Interop.ACTETHERLib.dll
+E:\Workspace\zz\项目8\代码\BBEBurnin\设备及外部系统对接\DevAccess\obj\x86\Release\DevAccess.dll
+E:\Workspace\zz\项目8\代码\BBEBurnin\设备及外部系统对接\DevAccess\obj\x86\Release\DevAccess.pdb
+E:\Workspace\zz\项目8\代码\BBEBurnin\设备及外部系统对接\DevAccess\bin\Release\Oracle.DataAccess.dll
+E:\Workspace\zz\项目8\代码\BBEBurnin\设备及外部系统对接\DevAccess\bin\Release\Oracle.ManagedDataAccess.dll

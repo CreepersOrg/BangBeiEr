@@ -1,0 +1,4 @@
+E:\Workspace\zz\项目8\代码\BBEBurnin\设备及外部系统对接\DevInterface\bin\Release\DevInterface.dll
+E:\Workspace\zz\项目8\代码\BBEBurnin\设备及外部系统对接\DevInterface\bin\Release\DevInterface.pdb
+E:\Workspace\zz\项目8\代码\BBEBurnin\设备及外部系统对接\DevInterface\obj\x86\Release\DevInterface.dll
+E:\Workspace\zz\项目8\代码\BBEBurnin\设备及外部系统对接\DevInterface\obj\x86\Release\DevInterface.pdb

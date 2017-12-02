@@ -1,0 +1,11 @@
+E:\NpWork\others\帮贝尔\代码\BBEBurnin\CreateKey\bin\Release\CreateKey.exe.config
+E:\NpWork\others\帮贝尔\代码\BBEBurnin\CreateKey\bin\Release\CreateKey.exe
+E:\NpWork\others\帮贝尔\代码\BBEBurnin\CreateKey\bin\Release\CreateKey.pdb
+E:\NpWork\others\帮贝尔\代码\BBEBurnin\CreateKey\bin\Release\LicenceManager.dll
+E:\NpWork\others\帮贝尔\代码\BBEBurnin\CreateKey\bin\Release\LicenceManager.pdb
+E:\NpWork\others\帮贝尔\代码\BBEBurnin\CreateKey\obj\x86\Release\CreateKey.csprojResolveAssemblyReference.cache
+E:\NpWork\others\帮贝尔\代码\BBEBurnin\CreateKey\obj\x86\Release\CreateKey.Form1.resources
+E:\NpWork\others\帮贝尔\代码\BBEBurnin\CreateKey\obj\x86\Release\CreateKey.Properties.Resources.resources
+E:\NpWork\others\帮贝尔\代码\BBEBurnin\CreateKey\obj\x86\Release\CreateKey.csproj.GenerateResource.Cache
+E:\NpWork\others\帮贝尔\代码\BBEBurnin\CreateKey\obj\x86\Release\CreateKey.exe
+E:\NpWork\others\帮贝尔\代码\BBEBurnin\CreateKey\obj\x86\Release\CreateKey.pdb
